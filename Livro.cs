@@ -1,8 +1,8 @@
 public class Livro 
 {
-	string titulo = "";
-	int numeroPaginas = 0;
-	string autor = "";
-	string editora = "";
+	public string titulo = "";
+	public int quantidadeEmEstoque = 0;
+	public string autor = "";
+	public string ISBN = "";
 	
 }
